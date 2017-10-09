@@ -1,4 +1,5 @@
 AngularJS [![Build Status](https://travis-ci.org/angular/angular.js.svg?branch=master)](https://travis-ci.org/angular/angular.js)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fangular.js.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fangular.js?ref=badge_shield)
 =========
 
 AngularJS lets you write client-side web applications as if you had a smarter browser.  It lets you
@@ -105,3 +106,7 @@ AngularJS has Dependency Injection, i.e. it takes care of providing all the nece
 to its controllers and services whenever required. This helps in making the AngularJS code ready for
 unit testing by making use of mock dependencies created and injected. This makes AngularJS more
 modular and easily testable thus in turn helping a team create more robust applications.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fangular.js.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fangular.js?ref=badge_large)
